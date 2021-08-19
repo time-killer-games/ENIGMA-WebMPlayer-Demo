@@ -1,4 +1,4 @@
 # ENIGMA-WebMPlayer-Demo
 ENIGMA WebMPlayer Demo GM81 Project File. 
 
-Only works with my fork of enigma: https:github.com/time-killer-games/enigma-dev
+Only works with my fork of enigma: https://github.com/time-killer-games/enigma-dev
